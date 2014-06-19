@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class test
 {
-	public static int valores[] = {1,2,7,10};
+	public static int valores[] = {1,4,6};
 	public static int cant[]= {0,0,0};
 	
 	public static void main(String[] args){
